@@ -27,4 +27,10 @@ Data Handling: Pandas
 📸 Screenshots
 ![Screenshot 2025-06-09 012134](https://github.com/user-attachments/assets/ff4280ce-1d55-4761-9324-613e9c7390cd)
 
+![Screenshot 2025-06-09 012424](https://github.com/user-attachments/assets/868b71bb-6661-4ae9-9338-ffdc4f1c5f87)
+
+![Screenshot 2025-06-09 012439](https://github.com/user-attachments/assets/72659319-3d22-43cf-9ab4-ae0ee6a4157b)
+
+
+
 
