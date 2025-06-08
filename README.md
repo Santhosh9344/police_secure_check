@@ -22,4 +22,9 @@ Frontend & Dashboard: Streamlit
 Backend: Python
 Database: PostgreSQL / SQLite
 Data Handling: Pandas
+
+
 📸 Screenshots
+![Screenshot 2025-06-09 012134](https://github.com/user-attachments/assets/ff4280ce-1d55-4761-9324-613e9c7390cd)
+
+
